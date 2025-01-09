@@ -1,0 +1,16 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "name": "Create project setup",
+      "status": "in-progress",
+      "description": "Set up Next.js with TypeScript and dependencies."
+    },
+    {
+      "id": "2",
+      "name": "Design UIsss",
+      "status": "not-started",
+      "description": "Create wireframes and basic UI components"
+    }
+  ]
+}
