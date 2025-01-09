@@ -20,5 +20,5 @@ npm install json-server --save-dev
 
 - Start json server
 ```
-json-server --watch db.json --port 8000
+json-server --watch public/db.json --port 8000
 ```
